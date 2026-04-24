@@ -1,0 +1,22 @@
+{
+  "valid": {
+    "firstName": "Mauricio",
+    "lastName": "QA",
+    "postalCode": "10101"
+  },
+  "missingFirstName": {
+    "firstName": "",
+    "lastName": "QA",
+    "postalCode": "10101"
+  },
+  "missingLastName": {
+    "firstName": "Mauricio",
+    "lastName": "",
+    "postalCode": "10101"
+  },
+  "missingPostalCode": {
+    "firstName": "Mauricio",
+    "lastName": "QA",
+    "postalCode": ""
+  }
+}

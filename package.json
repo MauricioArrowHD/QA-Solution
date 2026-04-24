@@ -1,0 +1,11 @@
+{
+  "name": "saucedemo-cypress-qa",
+  "version": "1.0.0",
+  "description": "QA automation project using Cypress against SauceDemo",
+  "scripts": {
+    "start": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.8.1"
+  }
+}
